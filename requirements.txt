@@ -1,0 +1,5 @@
+flask
+python-dotenv
+gradio>=4.0
+python-dotenv>=1.0
+google-generativeai>=0.3.0
