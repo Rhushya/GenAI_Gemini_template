@@ -14,7 +14,7 @@ This is a simple Generative AI application using Google's Gemini Pro model and G
 
 ## Prerequisites
 
-- Python 3.9 or higher
+- Python 3.10 or higher(It is for gradion )
 - Docker (optional, for containerized deployment)
 - Git (optional, for version control)
 
@@ -25,7 +25,7 @@ This is a simple Generative AI application using Google's Gemini Pro model and G
 1. **Clone the repository:**
 
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/Rhushya/GenAI_Gemini_template
     cd gemini-app
     ```
 
